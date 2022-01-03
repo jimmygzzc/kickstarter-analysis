@@ -7,7 +7,7 @@
 ## Analysis and Challenges
 
 ### Challenges and Difficulties Encountered
-* Skewed 
+* data is Skewed and I wasnt able to figure out how to better normlize it, but using the median instead of the mean for some of the data solved the problem
 * The standard deviations are larger than the mean.
 * There is a correlation between Failed Campaigns and High Goals that needs more analysis towards reduce the number of ampaigns missing their goals.
 
@@ -17,7 +17,7 @@
 * Most Successful Month = MAY
 * Least Successful Month = OCT
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/2749849/147401222-b099de29-2d88-436d-8141-33b77dc1c27d.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/2749849/147915943-8d6d0f6a-d678-4c55-9ff0-42b61fc6d360.png)
 
 ### Analysis of Outcomes Based on Goals
 * Failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns
